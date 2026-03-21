@@ -1,0 +1,9 @@
+{
+  "taro": {
+    "title": "เซสชันทาโร่",
+    "dailySessions": "เซสชันรายวัน",
+    "resetSessions": "รีเซ็ตเซสชัน",
+    "resettingSession": "กำลังรีเซ็ต...",
+    "resetSuccess": "รีเซ็ตเซสชันทาโร่สำเร็จ"
+  }
+}

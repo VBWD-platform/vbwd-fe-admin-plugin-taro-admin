@@ -1,0 +1,9 @@
+{
+  "taro": {
+    "title": "タロセッション",
+    "dailySessions": "1日のセッション",
+    "resetSessions": "セッションをリセット",
+    "resettingSession": "リセット中...",
+    "resetSuccess": "タロセッションが正常にリセットされました"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "taro": {
+    "title": "Сессии Таро",
+    "dailySessions": "Ежедневные сессии",
+    "resetSessions": "Сбросить сессии",
+    "resettingSession": "Сброс...",
+    "resetSuccess": "Сессии Таро успешно сброшены"
+  }
+}

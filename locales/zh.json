@@ -1,0 +1,9 @@
+{
+  "taro": {
+    "title": "塔罗会话",
+    "dailySessions": "每日会话",
+    "resetSessions": "重置会话",
+    "resettingSession": "重置中...",
+    "resetSuccess": "塔罗会话重置成功"
+  }
+}
