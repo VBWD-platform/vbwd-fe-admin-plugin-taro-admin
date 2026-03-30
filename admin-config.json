@@ -1,0 +1,12 @@
+{
+  "tabs": [
+    {
+      "id": "display",
+      "label": "Display",
+      "fields": [
+        { "key": "sessions_per_page", "label": "Sessions Per Page", "component": "input", "inputType": "number", "min": 10, "max": 100 },
+        { "key": "show_llm_debug", "label": "Show LLM Debug Info", "component": "checkbox", "description": "Show raw LLM request/response in session detail" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "sessions_per_page": 20,
+  "show_llm_debug": false
+}
